@@ -1,0 +1,12 @@
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados locais da IA
+dados/cache/
+*.sqlite3
+
+# Sistema
+.DS_Store
